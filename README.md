@@ -67,4 +67,5 @@ README.md
 ```
 ## Demo
 
+<img width="1918" height="923" alt="Screenshot 2026-06-06 225518" src="https://github.com/user-attachments/assets/36b66efc-b658-4297-a2cc-b1e75693b46e" />
 
