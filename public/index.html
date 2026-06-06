@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student-Mentor-AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="app-header">
+        <div>
+          <!-- <p class="eyebrow">Student support chatbot</p> -->
+          <h2>Mental Health Companion Chatbot</h2>
+        </div>
+        <!-- <div class="status-pill" aria-label="Supportive mentor mode active">
+          < <span class="status-dot"></span> -->
+          <!-- Mentor mode -->
+        <!-- </div> --> 
+      </header>
+<!-- 
+      <section class="welcome-card" aria-labelledby="welcome-title">
+        <div>
+          <h2 id="welcome-title">A calm space for study pressure.</h2>
+          <p>
+            Talk through exam stress, motivation dips, focus blocks, planning,
+            and overwhelming school days with a practical student mentor.
+          </p>
+        </div>
+      </section> -->
+
+      <section class="pressure-panel" aria-labelledby="pressure-title">
+        <div>
+          <p class="panel-label">Pressure meter</p>
+          <h2 id="pressure-title">How intense does it feel?</h2>
+        </div>
+        <div id="pressureMeter" class="pressure-meter pressure-low">
+          <span id="pressureIcon"></span>
+          <strong id="pressureText">Low</strong>
+        </div>
+      </section>
+
+      <section class="chat-card" aria-label="StudentMind AI chat">
+        <div id="chatMessages" class="chat-messages" aria-live="polite">
+          <article class="message bot-message">
+            <div class="avatar">AI</div>
+            <div class="bubble">
+              Hi, I’m StudentMind AI. Tell me what’s going on with your studies
+              today, and I’ll help you find one small next step.
+            </div>
+          </article>
+        </div>
+
+        <form id="chatForm" class="composer">
+          <label class="sr-only" for="messageInput">Message</label>
+          <input
+            id="messageInput"
+            type="text"
+            autocomplete="off"
+            placeholder="Example: I am stressed about exams..."
+            maxlength="600"
+            required
+          />
+          <button type="submit">Send</button>
+        </form>
+      </section>
+
+      <section class="quick-help" aria-label="Quick help prompts">
+        <button data-prompt="I am stressed about exams.">Exam Stress</button>
+        <button data-prompt="I have no motivation to study.">No Motivation</button>
+        <button data-prompt="Can you help me make a study plan?">Study Plan</button>
+        <button data-prompt="I can't focus while studying.">Can't Focus</button>
+        <button data-prompt="I am feeling overwhelmed by everything.">
+          Feeling Overwhelmed
+        </button>
+      </section>
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-06-06T16:44:02.184Z",
+    "userMessage": "hii",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "{\n  \"emotion\": \""
+  },
+  {
+    "timestamp": "2026-06-06T16:44:29.310Z",
+    "userMessage": "hii",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "{"
+  },
+  {
+    "timestamp": "2026-06-06T16:44:34.034Z",
+    "userMessage": "I have no motivation to study.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "{"
+  },
+  {
+    "timestamp": "2026-06-06T16:46:59.768Z",
+    "userMessage": "hi",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "{"
+  },
+  {
+    "timestamp": "2026-06-06T17:12:34.632Z",
+    "userMessage": "k",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! Sometimes a single letter says"
+  },
+  {
+    "timestamp": "2026-06-06T17:14:44.459Z",
+    "userMessage": "k",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! Sometimes a single letter says a"
+  },
+  {
+    "timestamp": "2026-06-06T17:15:27.481Z",
+    "userMessage": "tomorrow is my exam , i am very anxious",
+    "emotion": "Anxious",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's completely normal"
+  },
+  {
+    "timestamp": "2026-06-06T17:15:38.010Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's completely understandable to"
+  },
+  {
+    "timestamp": "2026-06-06T17:15:51.030Z",
+    "userMessage": "please guide me",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! It's great you're reaching out. \"Guide me\" can mean so many things, and I'm here to help with whatever you're facing, whether it's stress, pressure, motivation, or study challenges.\n\nTo give you the best guidance, could you tell me a little more about what's"
+  },
+  {
+    "timestamp": "2026-06-06T17:17:38.574Z",
+    "userMessage": "i am btech cse student",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! Being a B.Tech CSE student"
+  },
+  {
+    "timestamp": "2026-06-06T17:21:30.794Z",
+    "userMessage": "h",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! It sounds like you might"
+  },
+  {
+    "timestamp": "2026-06-06T17:22:30.759Z",
+    "userMessage": "hii",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! It's great to hear from"
+  },
+  {
+    "timestamp": "2026-06-06T17:22:48.599Z",
+    "userMessage": "hi",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hi there! It's great to"
+  }
+]
