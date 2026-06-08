@@ -69,6 +69,11 @@ README.md
 
 <img width="1918" height="923" alt="Screenshot 2026-06-06 225518" src="https://github.com/user-attachments/assets/36b66efc-b658-4297-a2cc-b1e75693b46e" />
 
+---
+
+<img width="1282" height="892" alt="Screenshot 2026-06-08 084907" src="https://github.com/user-attachments/assets/4ad3269c-4432-4c4f-a0a7-14a8f6ad7a7b" />
+
+
 
 
 
