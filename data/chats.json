@@ -89,5 +89,89 @@
     "emotion": "Stressed",
     "pressure": "Low",
     "botResponse": "Hi there! It's great to"
+  },
+  {
+    "timestamp": "2026-06-08T03:07:37.843Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's totally normal to struggle"
+  },
+  {
+    "timestamp": "2026-06-08T03:08:14.845Z",
+    "userMessage": "Can you help me make a study plan?",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hey there! Absolutely, I can help"
+  },
+  {
+    "timestamp": "2026-06-08T03:08:53.191Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's totally normal"
+  },
+  {
+    "timestamp": "2026-06-08T03:09:14.677Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hi there! It sounds really frustrating when you'"
+  },
+  {
+    "timestamp": "2026-06-08T03:10:26.546Z",
+    "userMessage": "i have a fear of my placement",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hey there! It's completely understandable"
+  },
+  {
+    "timestamp": "2026-06-08T03:10:51.137Z",
+    "userMessage": "should i have to study for 12 hours per day",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hey there! It sounds like you're really"
+  },
+  {
+    "timestamp": "2026-06-08T03:11:03.603Z",
+    "userMessage": "tell me",
+    "emotion": "Stressed",
+    "pressure": "Low",
+    "botResponse": "Hey there! I love that you'"
+  },
+  {
+    "timestamp": "2026-06-08T03:12:52.815Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's totally normal to"
+  },
+  {
+    "timestamp": "2026-06-08T03:13:19.900Z",
+    "userMessage": "i am 3rd year student and i am worrying about my end sem exams",
+    "emotion": "Anxious",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's completely normal to"
+  },
+  {
+    "timestamp": "2026-06-08T03:16:39.465Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "It's totally understandable to feel that way sometimes! Everyone struggles with focus, and"
+  },
+  {
+    "timestamp": "2026-06-08T03:17:38.946Z",
+    "userMessage": "I can't focus while studying.",
+    "emotion": "Stressed",
+    "pressure": "Moderate",
+    "botResponse": "Hey there! It's completely understandable to feel frustrated when focus is hard to find. Many students go through this, and it doesn't mean you're not capable.\n\nHere are a couple of quotes that might offer a little lift when you're feeling stuck:\n\n\"The journey of a thousand miles begins with a single step.\" - Lao Tzu.\nThis reminds us that even just opening your book or reading one sentence is a start! Don't feel you need to achieve everything at once.\n\n\"You don't have to be great to start, but you have to start to be great.\" - Zig Ziglar.\nIt’s about taking that first small action, no matter how small it feels. Try setting a timer for just 15 minutes and focus on one tiny task. You've got this!"
+  },
+  {
+    "timestamp": "2026-06-08T03:18:11.394Z",
+    "userMessage": "i am 3rd year student and i am worrying about my end sem please guide me",
+    "emotion": "Anxious",
+    "pressure": "Low",
+    "botResponse": "Hey there! It's completely normal to feel worried about end-semester exams, especially as a 3rd-year student. Many feel the same way!\n\nRemember, \"You are capable of more than you know.\" Try breaking down your study material into smaller, manageable chunks. This makes it less overwhelming. Also, schedule short, regular breaks – a fresh mind learns better!\n\nAs Eleanor Roosevelt said, \"The future belongs to those who believe in the beauty of their dreams.\" Trust in your hard work so far. Focus on what you can control, like your study schedule and taking care of yourself. You've got this!"
   }
 ]

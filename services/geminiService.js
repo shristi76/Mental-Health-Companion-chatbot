@@ -117,7 +117,6 @@ Rules:
 - Under 150 words
 - Friendly and supportive
 - Give practical advice
-- Include one small action step
 - Do not return JSON
 - Do not include labels like Emotion or Pressure`;
 
@@ -135,8 +134,8 @@ Rules:
         }
       ],
       generationConfig: {
-        temperature: 0.5,
-        maxOutputTokens: 250
+        temperature: 0.7,
+        maxOutputTokens: 1000
       }
     },
     {
