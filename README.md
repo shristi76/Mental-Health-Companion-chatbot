@@ -79,6 +79,10 @@ https://mental-health-companion-chatbot-1.onrender.com/
 
 <img width="1282" height="892" alt="Screenshot 2026-06-08 084907" src="https://github.com/user-attachments/assets/4ad3269c-4432-4c4f-a0a7-14a8f6ad7a7b" />
 
+---
+
+## WORKING VEDIO
+https://drive.google.com/file/d/1tBu8wjC_24r9ZbecqYxz01itaI_89FxR/view?usp=sharing
 
 
 
