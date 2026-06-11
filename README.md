@@ -67,7 +67,7 @@ README.md
 ```
 
 ## Deploy Link
-https://mental-health-companion-chatbot-nep6.onrender.com/
+https://mental-health-companion-chatbot-1.onrender.com/
 
 ---
 
