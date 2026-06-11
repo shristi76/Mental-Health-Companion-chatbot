@@ -74,7 +74,7 @@ https://mental-health-companion-chatbot-1.onrender.com/
 
 
 
-## WORKING VEDIO
+## WORKING VIDEO
 https://drive.google.com/file/d/1tBu8wjC_24r9ZbecqYxz01itaI_89FxR/view?usp=sharing
 
 ---
